@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xoucaichei.icanican.club/sitemap.xml
